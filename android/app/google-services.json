@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552743686155",
+    "project_id": "hdcclinic-1c9e2",
+    "storage_bucket": "hdcclinic-1c9e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552743686155:android:1999bf274b6b969943f70e",
+        "android_client_info": {
+          "package_name": "com.hdc.clinic.hdc_clinic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB27uuOar_PMIMc_LWb7CMPN7NkMxykLxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
